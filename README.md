@@ -1,4 +1,4 @@
-# Task 7 - SQL
+# Java Backend + SQL
 
 <aside>
 💡 Create an application that inserts, updates, deletes data in a database using JDBC. Use PostgreSQL DB.
